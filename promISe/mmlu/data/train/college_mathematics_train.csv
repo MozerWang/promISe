@@ -1,0 +1,22 @@
+I. R is commutative.
+"A university’s mathematics department has 10 professors and will offer 20 different courses next semester. Each professor will be assigned to teach exactly 2 of the courses, and each course will have exactly one professor assigned to teach it. If any professor can be assigned to teach any course, how many different complete assignments of the 10 professors to the 20 courses are possible?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+III. f is continuous, one-to-one, and onto.",I only,II only,I and II only,I and III only,C
+Which of the following is true?,Every compact space is complete,Every complete space is compact,Neither (a) nor (b)., Both (a) and (b).,A
+"A large class is to be divided into teams and each student must be a member of exactly one team. However, each student dislikes three of their classmates. Dislike between students need not be mutual. If the teams do not need to be equally sized, how many must be created so that no student is the teammate of someone they dislike?",4,7,10,13,B
+The maximum number of acute angles in a convex 10-gon in the Euclidean plane is,1,2,3,4,C
+cone’s height and radius are 2 cm and 1 cm, respectively. At what rate does the height of the water change
+3w + 5x + 10 y + 14z = 0
+"A fair coin is to be tossed 100 times, with each toss resulting in a head or a tail. If H is the total number of heads and T is the total number of tails, which of the following events has the greatest probability?",H = 50,T >= 60,51 <= H <= 55,H >= 48 and T >= 48,D
+II. If A^2 = A, then the trace of A is nonnegative.
+"There are 25 suitcases, 5 of which are damaged. Three suitcases are selected at random. What is the probability that exactly 2 are damaged?",2/69,1/30,2/23,12/125,C
+What is the largest order of an element in the group of permutations of 5 objects?,5,6,12,15,B
+I. If K is compact, then every continuous real-valued function defined on K is bounded.
+Statement 1 |  Suppose ∑|a_i| diverges and ∑ a_i = 2. There is a rearrangement a_i_k of the terms such that ∑ a_i_k = 4. Statement 2 | There exists metric spaces X and Y with X closed and bounded and a continuous mapping f : X → Y such that f(X) is NOT “closed and bounded”.,"True, True","True, False","False, True","False, False",A
+"If f : (0, 1) → (0, 1], then which of the following could be TRUE?
+II. R is a division ring (that is, all elements except the additive identity have multiplicative inverses).
+What is the units digit in the standard decimal expansion of the number 7^25?,1,3,5,7,D
+"Let x_1 = 1 and x_(n+1) = sqrt(3+2x_n) for all positive integers n. If it is assumed that {x_n} converges, then lim x_n =",3,e,sqrt(5),0,A
+IV. This structure is a group.",I and II only,I and III only,II and III only,III only,D
+In a game two players take turns tossing a fair coin; the winner is the first one to toss a head. The probability that the player who makes the first toss wins the game is,1/4,1/3,1/2,2/3,D
+III. The matrix A has eigenvalues −3 and 1.",I only,II only,III only,I and II only,D
+where r is the radius and h is the height of the cone.",−48/π cm/min,−4/(3π) cm/min,−8/(3π) cm/min,−16/(3π) cm/min,D

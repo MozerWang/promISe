@@ -1,0 +1,73 @@
+"If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?
+
+i) If it is desired that the distributional properties of the data in the experiment
+
+ii) ILS
+
+
+The pacf is necessary for distinguishing between,An AR and an MA model,An AR and an ARMA model,An MA and an ARMA model,Different models from within the ARMA family,B
+(ii) It must have a constant variance
+"Consider the estimation of a GARCH-M model. If the data employed were a time-series of daily corporate bond percentage returns, which of the following would you expect the value of the GARCH-in-mean parameter estimate to be?",Less than -1,Between -1 and 0,Between 0 and 1,Bigger than 1,C
+Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fund rather than a bond fund or a cash investment. Which class of model would be most appropriate?,A logit model,A multinomial logit,A tobit model,An ordered logit model,B
+
+
+
+
+iii) Use dummy variables to remove outlying observations
+(ii) The significance level is equal to the power of the test
+What are the dimensions of $\hat{u}^t \hat{u}?,T x k,T x 1,k x 1,1 x 1,D
+Which of the following statements is true concerning forecasting in econometrics?,Forecasts can only be made for time-series data,Mis-specified models are certain to produce inaccurate forecasts,Structural forecasts are simpler to produce than those from time series models,In-sample forecasting ability is a poor test of model adequacy,D
+rather than a set of analytical formulae",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",D
+"Which of the following statements are true concerning a triangular or recursive system?
+
+
+
+
+
+
+ii) GARCH models cannot account for leverage effects
+the slope coefficients will be inconsistent.
+
+i) They are assumed to be normally distributed
+(iii) Autocovariances that are constant
+iv) GARCH models cannot allow for a feedback from the volatility to the returns",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+iv) The GARCH(1,1) model will usually be sufficient to capture all of the dependence
+iii) The ordering of the variables is important for calculating impulse responses but not variance decompositions
+
+Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?,They can be interpreted as continuously compounded changes in the prices,They can be added over time to give returns for longer time periods,They can be added across a portfolio of assets to give portfolio returns,They are usually fat-tailed,C
+
+iv) Try a model in first differenced form rather than in levels.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",A
+i) The acf and pacf will always be identical at lag one whatever the model
+"Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?
+"Which of the following may be consequences of one or more of the CLRM assumptions being violated?
+
+i) Slowness of response of the dependent variable to changes in the values of the independent variables
+"Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation function (pacf)?
+
+iv) The intercept coefficient estimate must be zero.",(ii) and (iv) only,(i) and (iii) only,"(i), (ii), and (iii) only","(i), (ii), (iii), and (iv)",C
+ii) Use suitably modified standard errors
+iii) VAR models are typically highly parsimonious
+
+
+"Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous equations?
+
+
+
+
+
+are the same as those of some actual data
+
+(ii) The regressand
+
+i) Coefficient estimates may be misleading
+i) Take logarithms of each of the variables
+
+ii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not cointegrated when they are
+"Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?
+
+(iii) The standard error will be negatively related to the sample size
+
+ii) VARs in their reduced forms can be used easily to produce time-series forecasts
+(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure
+A dependent variable whose values are not observable outside a certain range but where the corresponding values of the independent variables are still available would be most accurately described as what kind of variable?,Censored,Truncated,Multinomial variable,Discrete choice,A
+"If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y?",The current value of y,Zero,One,The average value of the change in y over the in-sample period,D

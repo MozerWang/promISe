@@ -1,0 +1,40 @@
+"If we express $3x^2 + x - 4$ in the form $a(x - h)^2 + k$, then what is $k$?",-\frac{7}{12},-7,49,-\frac{49}{12},D
+"Terri opened a fast food restaurant. The initial cost to open the restaurant is $800,000. She has to pay daily operational costs of $250 and labor costs of $400. What expression represents her total cost if she has had the restaurant open for “ D ” days?","800,000 + 150 D","800,000 + 650 D","800,000 − 650 D","650 + 800,000 D",B
+"A person walked 3 miles to the east, then turned north and walked 10 miles, then turned west and walked 6 miles, and finally turned south and walked 16 miles. Approximately how far is the person from his starting point in miles?",3.4,6.7,9.2,12.8,B
+"At breakfast, lunch, and dinner, Joe randomly chooses with equal probabilities either an apple, an orange, or a banana to eat. On a given day, what is the probability that Joe will eat at least two different kinds of fruit?",\frac{7}{9},\frac{8}{9},\frac{5}{9},\frac{9}{11},B
+"An object moving along a line has velocity v(t) = t cos(t) - ln (t + 2), where 0 <= t <= 10. How many times does the object reverse direction?",none,one,two,three,C
+"Planets X, Y and Z take 360, 450 and 540 days, respectively, to rotate around the same sun. If the three planets are lined up in a ray having the sun as its endpoint, what is the minimum positive number of days before they are all in the exact same locations again?",360,5400,900,1200,B
+John divided his souvenir hat pins into two piles. The two piles had an equal number of pins. He gave his brother one-half of one-third of one pile. John had 66 pins left. How many pins did John originally have?,396,72,66,36,B
+"Let $M=4a^2 - 2b^2 +a$. Let $j$ be the value of $M$ when $a=5$ and $b=3$, and let $k$ be the value of $M$ when $a=-1$ and $b=4$. Calculate $j+2k$.",29,28,27,26,A
+"Suppose that for some $a,b,c$ we have $a+b+c = 1$, $ab+ac+bc = abc = -4$. What is $a^3+b^3+c^3$?",0,1,112,12,B
+What is the range of the function y = 5 + 3 * sin(pi – x)?,–3 ≤ y ≤ 3,–2 ≤ y ≤ 8,0 ≤ y ≤ 6,2 ≤ y ≤ 8,D
+"If the ratio of $2x-y$ to $x+y$ is 2 to 3, what is the ratio of $x$ to $y$? Express your answer as a common fraction.",\frac{5}{4},\frac{4}{5},\frac{5}{2},\frac{2}{5},A
+"Five years ago, a computer that worked half as fast as a current computer cost twice as much money. The current computer's speed to price ratio is what percent of the older computer's speed to price ratio?",20,400,32,\frac{2}{5},B
+"What is the largest factor of 54,321 that is less than 54,321?",6,121,18107,"54,320",C
+The domain of the function $h(x) = \sqrt{25-x^2}+\sqrt{-(x-2)}$ is an interval of what width?,7,5,2,25,A
+What is the second number in the row of Pascal's triangle that has 43 numbers?,43,16,42,44,C
+"Morgan is on a social networking website. She has 60 female friends and 50 male friends and belongs to 5 social groups. If 30% of her female friends live in town and 40% of her male friends live in town, how many out-of-town friends does she have on the social networking site?",38,72,110,360,B
+The positive square root of 200 is what percent larger than the positive square root of 121? Express your answer to the nearest whole number.,29,14,27,11,A
+What is the greatest common divisor of $2^{1001}-1$ and $2^{1012}-1$?,1,2049,2048,2047,D
+Find the sum of all integers $k$ such that $\binom{23}{4} + \binom{23}{5} = \binom{24}{k}$.,24,5,3,21,A
+"How many ways are there to choose 3 cards from a standard deck of 52 cards, if all three cards must be of different suits? (Assume that the order of the cards does not matter.)",8788,2,2197,21,A
+"A bag has 4 red and 6 blue marbles. A marble is selected and not replaced, then a second is selected. What is the probability that both are the same color?",\frac{1}{8},\frac{8}{15},\frac{1}{15},\frac{7}{15},D
+"Suppose that for some $a,b,c$ we have $a+b+c = 6$, $ab+ac+bc = 5$ and $abc = -12$. What is $a^3+b^3+c^3$?",90,99,64,91,A
+"The mean of 7 numbers is 15. When an 8th number is added, the mean decreases to 12. What is the 8th number?",–12,–9,0,8,B
+"Ben rolls four fair 20-sided dice, and each of the dice has faces numbered from 1 to 20. What is the probability that exactly two of the dice show an even number?",\frac{5}{24},\frac{5}{16},\frac{3}{8},\frac{5}{8},C
+John divided his souvenir hat pins into two piles. The two piles had an equal number of pins. He gave his brother one-half of one-third of one pile. John had 66 pins left. How many pins did John originally have?,792,66,396,72,D
+"What is the slope of the line that passes through the points (5, 4) and (–2, 3)?",0.14,0.2,0.33,5,A
+"Given that $a$ and $b$ are real numbers such that $-3\leq a\leq1$ and $-2\leq b\leq 4$, and values for $a$ and $b$ are chosen at random, what is the probability that the product $a\cdot b$ is positive? Express your answer as a common fraction.",\frac{5}{12},\frac{5}{11},\frac{7}{12},\frac{5}{17},A
+What is the least possible positive integer-value of $n$ such that $\sqrt{18\cdot n \cdot 34}$ is an integer?,15,10,17,34,C
+"Suppose that $f(x)$ is a polynomial that has degree $6$ and $g(x)$ is a polynomial that has degree $3$. If $h(x)$ is also a polynomial such that $f(g(x)) + g(h(x)) + h(f(x))$ is a polynomial of degree $36$, then what is the degree of the polynomial $h$?",72,6,18,12,B
+"The path of a satellite is given by the parametric equations x = 4 cos(t) + cos(12t), y = 4 sin(t) + sin(12t). The upward velocity at t = 1 equals",2.829,3.005,3.999,12.287,D
+Find $(2^{20} + 2^{20} + 2^{20} +2^{21}) \div 2^{17}$.,20,40,0,10,B
+What is the smallest prime whose digits sum to $19$?,5,11,17,199,D
+"A novel has 400 pages and Veronica wants to estimate how long it will take her to complete it. She reads 250 words per minute. She counted the words on one quarter of a typical page and found that there were approximately 200 words per page. To the nearest minute, how long will it take Veronica to read the book?",225,320,400,450,B
+What is the shortest distance from the origin to the circle defined by $x^2-24x +y^2+10y +160=0$?,10,16,24,12,A
+Find all positive values of $c$ so that the inequality $x^2-6x+c<0$ has real solutions for $x$. Express your answer in interval notation.,"(0, 9)","(1, 1)","(6, 0)","(6, 6)",A
+How many diagonals are in a regular octagon?,8,16,17,20,D
+"When the graph of a certain function $f(x)$ is shifted $2$ units to the right and stretched vertically by a factor of $2$ (meaning that all $y$-coordinates are doubled), the resulting figure is identical to the original graph. Given that $f(0)=0.1$, what is $f(10)$?",0.01,1,32,3.2,D
+"When the expression $-2x^2-20x-53$ is written in the form $a(x+d)^2+e$, where $a$, $d$, and $e$ are constants, what is the sum $a+d+e$?",-80,0,6,53,B
+"Where, in the first quadrant, does the rose r = sin 3θ have a vertical tangent?",nowhere,θ = 0.39,θ=  0.47,θ = 0.52,C
+"If f(2x) = x + 5 and f(g(6)) = 13, then 2 * g(6) =",6,16,32,36,C

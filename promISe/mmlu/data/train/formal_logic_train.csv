@@ -1,0 +1,42 @@
+A: Marina reads a Percy Jackson book.
+" Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?
+"Identify the conclusion of the following argument. That the world is my idea is a truth valid for every living creature, though only man can contemplate it. In doing so, he attains philosophical wisdom. No truth is more absolutely certain than that all that exists for knowledge and therefore this world is only object in relation to subject, perception of a perceiver. The world is an idea. (Arthur Schopenhauer, The World as Will and Idea)",The world is an idea.,"That the world is my idea is a truth valid for every living creature, though only man can contemplate it.","In doing so, he attains philosophical wisdom.","No truth is more absolutely certain than that all that exists for knowledge and therefore this world is only object in relation to subject, perception of a perceiver.",A
+ Select the best translation into predicate logic: Some students work hard.,(∃x)(Wx ∨ Sx),(∃x)(Sx ∨ Wx),(∃x)(Sx • Wx),(∃x)(Sx ⊃ Wx),C
+~N ≡ (O · P)
+"Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)",Utilitarian theory is embarrassed by the possibility of utility monsters.,A utility monster gets enormous gains in utility.,A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.,The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.,A
+~G ⊃ ~J",Inconsistent,"Consistent. Consistent valuation when E is true and F, G, H, I, and J are false","Consistent. Consistent valuation when E and H are true and F, G, I, and J are false","Consistent. Consistent valuation when E and I are true and F, G, H, and J are false",B
+Y ⊃ Z
+~Mb	/ ~Dh","If my headache is dualist state, then your tickle is a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. Either everything is physical or everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. If everything is physical then everything is mental. But my broken toe is not a mental state. So my headache is not a dualist state.","If my headache is dualist state, then your tickle is not a physical state. Everything is either physical or mental. But my broken toe is not a mental state. So my headache is not a dualist state.",B
+" Which of the given formulas of PL is the best symbolization of the following sentence?
+~(S ∨ Q) / R",Valid,Invalid. Counterexample when Q and S are true and R is false,Invalid. Counterexample when Q is true and S and R are false,"Invalid. Counterexample when Q, S, and R are false",D
+~(J ∨ K) · L and (L ⊃ J) · K",Logically equivalent,Contradictory,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,D
+D: Russell makes dinner.
+(A ∨ B) ⊃ C
+E ⊃ F
+" Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+ Select the best translation into predicate logic:: Some blue herons migrate.,(∀x)[(Hx • Bx) • Mx],(∃x)[(Hx • Bx) ⊃ Mx],(∀x)[(Hx • Bx) ⊃ Mx],(∃x)[(Hx • Bx) • Mx],D
+" Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+" Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)
+" Select the best translation into predicate logic: Ms. Jackson lent me some sugar, but neither Janet nor Latoya did.",Lm ∨ ~(Jl ∨ Ll),Lm • ~(Lj • Ll),Lm • ~(Lj ∨ Ll),Lm ∨ ~(Lj • Ll),C
+(J ≡ K) ⊃ (L ∨ M)
+Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.,The Aardvarks do not win their first game.,The Bees win their first game.,The Chipmunks do not win their first game.,Either the Aardvarks or the Chipmunks do not win their first game.,D
+ Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y),(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)],(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)],(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)],(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]},B
+ Select the best translation into predicate logic: No artifacts are people.,~Pa,(∀x)(Ax ⊃ ~Px),~Ap,(∀x)(Ax • ~Px),B
+H ∨ ~E
+A ∨ (B · ~D)
+~E · ~F",Inconsistent,"Consistent. Consistent valuation when D, E, and F are true",Consistent. Consistent valuation when D and E are true and F is false,Consistent. Consistent valuation when D and F are true and E is false,A
+(Q · S) ⊃ ~P
+Either England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.",(F ⊃ ~E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ ~S),~(F ⊃ E) ∨ (~S ⊃ C),(F ⊃ E) ∨ (C ≡ ~S),A
+Select the best translation into predicate logic. Kevin is introduced to José by Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduces y to z),Iwjk,Ijkw,Ikjw,Iwkj,D
+" Which of the given formulas of PL is the best symbolization of the following sentence?
+"Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.",Bc ≡ (Pm ∨ Gm),Bc ≡ (Pm • Gm),Bc ⊃ (Pm ∨ Gm),Cb ⊃ (Pm • Gm),A
+N ⊃ P",P,N ⊃ ~O,O ∨ Q,~P,A
+K ≡ ~H
+"Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.",The university increases financial aid.,The university does not increase financial aid.,The board of trustees prevents it.,The president fails to approve it.,B
+U ⊃ W
+"Identify the conclusion of the following argument. It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients. The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes. Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts. (Sigmund Freud, The Origin and Development of Psychoanalysis)",It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients.,"The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes.","Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts.","It is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts.",D
+Q ≡ R
+~K / L",Valid,Invalid. Counterexample when J and K are true and L is false,Invalid. Counterexample when J is true and K and L are false,Invalid. Counterexample when K is true and J and L are false,C
+"Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)
+~O ⊃ Q
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
