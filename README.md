@@ -1,5 +1,5 @@
-# [COLING 2024] promISe:Releasing the Capabilities of LLMs with Prompt Introspective Search
-This is the official repository for this accepted paper.
+# [COLING 2024 Oral] promISe:Releasing the Capabilities of LLMs with Prompt Introspective Search
+This is the official repository for this accepted [paper](https://aclanthology.org/2024.lrec-main.1149/).
 
 ## Abstract
 ![Overview of promISe](assets/main_fig.png)
@@ -48,10 +48,12 @@ Please consider citing our work as follows if it is helpful.
 
 ```
 @inproceedings{wang2024promise,
-    title={promISe:Releasing the Capabilities of LLMs with Prompt Introspective Search}, 
-    author={Wang, Minzheng and Xu, Nan and Zhao, Jiahao and Luo, Yin and Mao, Wenji},
-    booktitle={LREC-COLING},
-    year={2024},
+    title = "promISe:Releasing the Capabilities of LLMs with Prompt Introspective Search", 
+    author = "Wang, Minzheng and Xu, Nan and Zhao, Jiahao and Luo, Yin and Mao, Wenji",
+    booktitle = "Proceedings of LREC-COLING",
+    url = "https://aclanthology.org/2024.lrec-main.1149",
+    pages = "13120--13130",
+    year = "2024",
 }
 ```
 
